@@ -1,12 +1,16 @@
-noprimos = []
-primos = []
+
+
+n = int(input("Ingrese un numero entero"))
 def num_primo (n):
-    n = int(input("Ingrese un numero entero"))
-    for divisor in range (2, n + 1):
-        if n % 2 == 0: 
-            noprimos.append(n)
-        elif n/divisor != 0:
-            resultado = n/divisor
-            primos.append(resultado)
-            print(primos)
-            return num_primo
+    primos = []
+    i = 1 
+    while n< len(primos):
+        for a in range (i):
+            a+=2
+            if i%a==0 and a<i:
+             break 
+            elif a==i:
+                num_primo.append(i)
+            
+    return primos[-1]    
+num_primo(n)
