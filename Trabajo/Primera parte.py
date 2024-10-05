@@ -5,8 +5,8 @@ def num_primo (largo):                  #Definimos la función, llamada "num_pri
         numero=numero+1                 #Sumamos una unidad a "numero"
         for i in primos:                #Recorremos la lista de primos con el elemento iterable "i", siendo "i" nuestro divisor
             if numero%i==0:             #Si "numero" dividido "i" tiene resto 0 (cero), entonces sabemos que NO es primo y por tanto:
-                break                   #rompemos el código y volvemos al incio del loop. Sino pasamos a la siguiente condición:
+                break                   #rompemos el bucle y volvemos al incio del loop. Sino pasamos a la siguiente condición:
             elif i>=numero**0.5:        #si "i" es mayor o igual a la raiz de "numero", entonces encontramos un número primo
                 primos.append(numero)   #Añadimos el número primo a la lista
-                break                   #Cortamos el código y proseguimos el loop con el siguiente número
+                break                   #Cortamos el bucle y proseguimos el loop con el siguiente número
     return primos[-1]                   #La función nos devuelve el último número primo de la lista "primos" (aquel que fue solicitado)
