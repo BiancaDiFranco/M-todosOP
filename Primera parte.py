@@ -10,3 +10,5 @@ def num_primo (largo):
                 primos.append(numero)
                 break
     return primos[-1]
+
+print(num_primo(1))
