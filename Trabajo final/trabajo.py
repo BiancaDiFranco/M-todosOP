@@ -187,3 +187,103 @@ print(f"{Ninguno_NoSabe_r1} personas de entre 16 y 25 años planean no votar a n
        f"{Ninguno_NoSabe_r3} personas de entre 36 a 45 años planean no votar a ninguno de los partidos polítiicos mencionados o aún saben a cuál votarán /n"
        f"{Ninguno_NoSabe_r4} personas de entre 46 a 55 años planean no votar a ninguno de los partidos polítiicos mencionados o aún saben a cuál votarán /n"
        f"{Ninguno_NoSabe_r5} personas de entre 56 y más años planean no votar a ninguno de los partidos polítiicos mencionados o aún saben a cuál votarán /n")
+
+#Intención de voto de La Libertad Avanza por género
+
+filtroV_LLA = (df["INT DE VOTO X ESPACIO"] == "LIBERTARIOS") & (df["GENERO"] == "Masculino")
+LLA_varones = df[filtroV_LLA].shape[0] 
+
+filtroM_LLA = (df["INT DE VOTO X ESPACIO"] == "LIBERTARIOS") & (df["GENERO"] == "Femenino")
+LLA_mujeres = df[filtroM_LLA].shape[0] 
+
+filtroO_LLA = (df["INT DE VOTO X ESPACIO"] == "LIBERTARIOS") & (df["GENERO"] == "Otro")
+LLA_otros = df[filtroO_LLA].shape[0] 
+
+print (f"{LLA_varones} hombres piensan votar a La Libertad Avanza /n"
+       f"{LLA_mujeres} mujeres piensan votar a La Libertad Avanza /n"
+       f"{LLA_otros} otros piensan votar a La Libertad Avanza /n")
+
+
+#Intención de voto del Frente de Todos por género
+filtroV_FdT = (df["INT DE VOTO X ESPACIO"] == "FdT") & (df["GENERO"] == "Masculino")
+FdT_varones = df[filtroV_FdT].shape[0] 
+
+filtroM_FdT = (df["INT DE VOTO X ESPACIO"] == "FdT") & (df["GENERO"] == "Femenino")
+FdT_mujeres = df[filtroM_FdT].shape[0] 
+
+filtroO_FdT = (df["INT DE VOTO X ESPACIO"] == "FdT") & (df["GENERO"] == "Otro")
+FdT_otros = df[filtroO_FdT].shape[0] 
+
+print (f"{FdT_varones} hombres piensan votar al Frente de Todos /n"
+       f"{FdT_mujeres} mujeres piensan votar al Frente de Todos/n"
+       f"{FdT_otros} otros piensan votar al Frente de Todos /n")
+
+#Intención de voto de Juntos por el Cambio por género
+filtroV_JxC = (df["INT DE VOTO X ESPACIO"] == "JxC") & (df["GENERO"] == "Masculino")
+JxC_varones = df[filtroV_JxC].shape[0] 
+
+filtroM_JxC = (df["INT DE VOTO X ESPACIO"] == "JxC") & (df["GENERO"] == "Femenino")
+JxC_mujeres = df[filtroM_JxC].shape[0] 
+
+filtroO_JxC = (df["INT DE VOTO X ESPACIO"] == "JxC") & (df["GENERO"] == "Otro")
+JxC_otros = df[filtroO_JxC].shape[0] 
+
+print (f"{JxC_varones} hombres piensan votar a Juntos por el Cambio /n"
+       f"{JxC_mujeres} mujeres piensan votar a Juntos por el Cambio /n"
+       f"{JxC_otros} otros piensan votar a Juntos por el Cambio /n")
+
+#Intención de voto del Frente de Izquierda por género
+filtroV_FIT = (df["INT DE VOTO X ESPACIO"] == "FIT") & (df["GENERO"] == "Masculino")
+FIT_varones = df[filtroV_FIT].shape[0] 
+
+filtroM_FIT = (df["INT DE VOTO X ESPACIO"] == "FIT") & (df["GENERO"] == "Femenino")
+FIT_mujeres = df[filtroM_FIT].shape[0] 
+
+filtroO_FIT = (df["INT DE VOTO X ESPACIO"] == "FIT") & (df["GENERO"] == "Otro")
+FIT_otros = df[filtroO_FIT].shape[0] 
+
+print (f"{FIT_varones} hombres piensan votar al Frente de Izquierda /n"
+       f"{FIT_mujeres} mujeres piensan votar al Frente de Izquierda /n"
+       f"{FIT_otros} otros piensan votar al Frente de Izquierda /n")
+
+#Intención de voto del Peronismo No Kirchnerista por género
+filtroV_PNK = (df["INT DE VOTO X ESPACIO"] == "PNK") & (df["GENERO"] == "Masculino")
+PNK_varones = df[filtroV_PNK].shape[0] 
+
+filtroM_PNK = (df["INT DE VOTO X ESPACIO"] == "PNK") & (df["GENERO"] == "Femenino")
+PNK_mujeres = df[filtroM_PNK].shape[0] 
+
+filtroO_PNK = (df["INT DE VOTO X ESPACIO"] == "PNK") & (df["GENERO"] == "Otro")
+PNK_otros = df[filtroO_PNK].shape[0] 
+
+print (f"{PNK_varones} hombres piensan votar al Peronismo No Kirchnerista /n"
+       f"{PNK_mujeres} mujeres piensan votar al Peronismo No Kirchnerista /n"
+       f"{PNK_otros} otros piensan votar al Peronismo No Kirchnerista /n")
+
+#Intención de voto de Otros por género
+filtroV_Otros = (df["INT DE VOTO X ESPACIO"] == "OTROS") & (df["GENERO"] == "Masculino")
+Otros_varones = df[filtroV_Otros].shape[0] 
+
+filtroM_Otros = (df["INT DE VOTO X ESPACIO"] == "OTROS") & (df["GENERO"] == "Femenino")
+Otros_mujeres = df[filtroM_Otros].shape[0] 
+
+filtroO_Otros = (df["INT DE VOTO X ESPACIO"] == "OTROS") & (df["GENERO"] == "Otro")
+Otros_otros = df[filtroO_Otros].shape[0] 
+
+print(f"{Otros_varones} hombres piensan votar a Otros /n"
+       f"{Otros_mujeres} mujeres piensan votar a Otros /n"
+       f"{Otros_otros} otros piensan votar a Otros /n")
+
+#Intención de no votar a ninguno de ellos por género
+filtroV_Ninguno_NoSabe = (df["INT DE VOTO X ESPACIO"] == "NINGUNO/NOSABE") & (df["GENERO"] == "Masculino")
+Ninguno_NoSabe_varones = df[filtroV_Ninguno_NoSabe].shape[0] 
+
+filtroM_Ninguno_NoSabe = (df["INT DE VOTO X ESPACIO"] == "NINGUNO/NOSABE") & (df["GENERO"] == "Femenino")
+Ninguno_NoSabe_mujeres = df[filtroM_Ninguno_NoSabe].shape[0] 
+
+filtroO_Ninguno_NoSabe = (df["INT DE VOTO X ESPACIO"] == "NINGUNO/NOSABE") & (df["GENERO"] == "Otro")
+Ninguno_NoSabe_otros = df[filtroO_Ninguno_NoSabe].shape[0] 
+
+print(f"{Ninguno_NoSabe_varones} hombres piensan no votar a ninguno de ellos /n"
+       f"{Ninguno_NoSabe_mujeres} mujeres piensan no votar a ninguno de ellos /n"
+       f"{Ninguno_NoSabe_otros} otros piensan no votar a ninguno de ellos /n")
