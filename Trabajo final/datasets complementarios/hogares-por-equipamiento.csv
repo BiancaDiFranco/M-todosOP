@@ -1,0 +1,363 @@
+"id_distrito","departamento","distrito","total_hogares","hogares_con_heladera","hogares_con_telefono_celular","hogares_con_telefono_de_linea","hogares_con_computadoras"
+"1306","Belgrano","Armstrong",3840,3776,3377,2475,1983
+"1303","Belgrano","Las Parejas",3896,3822,3564,2029,1910
+"1302","Belgrano","Las Rosas",4398,4302,3797,2423,1995
+"1805","Caseros","Casilda",11705,11381,10012,6745,5258
+"0841","Castellanos","Frontera",2956,2823,2633,1085,975
+"0824","Castellanos","Rafaela",29655,28967,25676,19920,15369
+"0811","Castellanos","Sunchales",7022,6940,6221,4008,3955
+"1918","Constitución","Villa Constitución",14624,14140,12307,8974,6860
+"1706","General López","Firmat",6673,6508,5719,3755,3147
+"1727","General López","Rufino",6639,6527,5735,4055,3257
+"1713","General López","Venado Tuerto",25230,24599,22418,15042,12734
+"1719","General López","Villa Cañás",3252,3193,2860,1615,1486
+"0319","General Obligado","Avellaneda",7173,6602,6330,2746,2973
+"0305","General Obligado","Las Toscas",3296,2735,2723,1372,1006
+"0323","General Obligado","Malabrigo",2158,2007,1846,742,869
+"0320","General Obligado","Reconquista",21117,19467,18520,8674,9010
+"0308","General Obligado","Villa Ocampo",5686,4679,4654,2687,1666
+"1410","Iriondo","Cañada de Gómez",9929,9742,8476,6186,4946
+"1402","Iriondo","Totoras",3458,3363,3013,1787,1598
+"1005","La Capital","Laguna Paiva",3923,3777,3226,2175,1477
+"1010","La Capital","Recreo",4016,3647,3473,1777,1355
+"1011","La Capital","Santa Fe",124927,119940,106886,77760,65728
+"1012","La Capital","Santo Tomé",19834,19202,17175,13723,10109
+"0916","Las Colonias","Esperanza",13884,13614,12133,7967,7123
+"0935","Las Colonias","San Carlos Centro",3801,3754,3285,2180,1755
+"0105","9 de Julio","Tostado",4616,4120,3699,2746,1518
+"1618","Rosario","Arroyo Seco",6765,6559,5725,4313,3158
+"1604","Rosario","Funes",7382,7329,6827,5446,4920
+"1602","Rosario","Granadero Baigorria",10817,10417,9498,6394,5036
+"1606","Rosario","Pérez",7832,7393,6788,4067,2824
+"1603","Rosario","Rosario",320532,311379,275620,227552,176262
+"1608","Rosario","Villa Gobernador Gálvez",22320,21160,18365,14376,8067
+"0701","San Cristóbal","Ceres",4799,4612,4128,2208,1902
+"0708","San Cristóbal","San Cristóbal",4985,4718,4149,2646,1830
+"0404","San Javier","San Javier",4673,3817,3993,917,1330
+"1105","San Jerónimo","Coronda",5280,4815,4521,1938,1909
+"1108","San Jerónimo","Gálvez",6528,6395,5550,4697,3309
+"1121","San Jerónimo","San Genaro",2984,2892,2494,1651,1205
+"0611","San Justo","San Justo",7304,7007,6253,3099,2878
+"1505","San Lorenzo","Capitán Bermúdez",9107,8873,7471,6124,3906
+"1509","San Lorenzo","Carcarañá",5043,4933,4427,2526,2289
+"1504","San Lorenzo","Fray Luis Beltrán",4532,4336,3798,2775,1958
+"1502","San Lorenzo","Puerto General San Martín",3742,3561,3227,1764,1329
+"1511","San Lorenzo","Roldán",4286,4152,3794,2274,2061
+"1503","San Lorenzo","San Lorenzo",14695,14283,12674,8937,7088
+"1215","San Martín","El Trébol",3917,3857,3398,2292,1972
+"1208","San Martín","San Jorge",5971,5867,5165,3437,2863
+"1203","San Martín","Sastre",2026,1988,1717,1263,929
+"0205","Vera","Calchaquí",3186,2833,2706,885,970
+"0202","Vera","Vera",5888,5224,4992,2142,2001
+"1301","Belgrano","Bouquet",472,463,427,316,218
+"1304","Belgrano","Montes de Oca",1041,1019,865,701,465
+"1305","Belgrano","Tortugas",834,814,731,374,381
+"1803","Caseros","Arequito",2339,2314,2019,1358,1115
+"1801","Caseros","Arteaga",1172,1162,994,776,532
+"1811","Caseros","Berabevú",818,813,682,507,367
+"1807","Caseros","Bigand",1778,1754,1530,892,798
+"1808","Caseros","Chabás",2415,2370,2080,1347,1043
+"1812","Caseros","Chañar Ladeado",2037,2016,1761,1298,1036
+"1813","Caseros","Gödeken",589,570,497,311,226
+"1804","Caseros","Los Molinos",634,622,536,403,280
+"1810","Caseros","Los Quirquinchos",919,899,743,553,355
+"1802","Caseros","San José de la Esquina",2432,2407,2115,1410,1135
+"1806","Caseros","Sanford",638,630,523,461,260
+"1809","Caseros","Villada",467,452,371,283,158
+"0837","Castellanos","Angélica",525,508,449,295,220
+"0812","Castellanos","Ataliva",700,681,618,296,249
+"0826","Castellanos","Aurelia",87,81,77,24,21
+"0832","Castellanos","Bauer y Sigel",154,151,130,78,51
+"0825","Castellanos","Bella Italia",386,375,372,157,192
+"0810","Castellanos","Colonia Aldao",584,561,505,296,191
+"0807","Castellanos","Colonia Bicha",103,102,92,53,34
+"0816","Castellanos","Colonia Bigand",52,47,49,1,6
+"0822","Castellanos","Colonia Castellanos",93,89,77,43,23
+"0834","Castellanos","Colonia Cello",96,93,86,39,32
+"0836","Castellanos","Colonia Iturraspe",5,3,5,2,1
+"0845","Castellanos","Colonia Margarita",130,125,120,28,29
+"0804","Castellanos","Colonia Raquel",140,138,136,53,55
+"0820","Castellanos","Coronel Fraga",134,130,118,70,40
+"0815","Castellanos","Egusquiza",145,137,124,78,46
+"0842","Castellanos","Esmeralda",280,277,244,157,98
+"0838","Castellanos","Estación Clucellas",303,298,252,182,130
+"0808","Castellanos","Eusebia",309,300,268,171,107
+"0839","Castellanos","Eustolia",44,44,43,5,12
+"0817","Castellanos","Fidela",53,51,52,15,19
+"0813","Castellanos","Galisteo",82,76,75,13,15
+"0843","Castellanos","Garibaldi",113,107,95,19,28
+"0809","Castellanos","Colonia Hugentobler",53,52,46,12,11
+"0803","Castellanos","Humberto Primo",1728,1685,1441,920,642
+"0833","Castellanos","Josefina",764,710,690,159,184
+"0814","Castellanos","Lehmann",912,874,784,492,320
+"0844","Castellanos","María Juana",1764,1760,1472,1358,891
+"0802","Castellanos","Colonia Mauá",21,20,19,3,2
+"0835","Castellanos","Clucellas",549,521,472,236,194
+"0823","Castellanos","Presidente Roca",291,283,265,119,89
+"0818","Castellanos","Pueblo Marini",57,56,54,10,19
+"0819","Castellanos","Ramona",612,599,551,379,256
+"0829","Castellanos","Estación Saguier",163,153,134,81,52
+"0830","Castellanos","San Antonio",126,121,107,67,50
+"0846","Castellanos","San Vicente",2172,2136,1828,1470,1172
+"0831","Castellanos","Santa Clara de Saguier",807,794,685,445,308
+"0827","Castellanos","Susana",439,429,374,220,168
+"0805","Castellanos","Tacural",476,469,414,283,199
+"0806","Castellanos","Tacurales",145,139,140,24,39
+"0821","Castellanos","Vila",513,494,443,273,162
+"0828","Castellanos","Villa San José",114,112,98,55,58
+"0801","Castellanos","Virginia",96,91,83,47,15
+"0840","Castellanos","Zenón Pereyra",607,598,534,370,247
+"1902","Constitución","Alcorta",2605,2530,2223,1279,1082
+"1901","Constitución","Bombal",1100,1086,977,770,529
+"1911","Constitución","Cañada Rica",244,233,206,183,102
+"1908","Constitución","Cepeda",150,148,129,68,46
+"1916","Constitución","Empalme Villa Constitución",1965,1922,1662,1324,958
+"1912","Constitución","General Gelly",263,256,213,177,90
+"1914","Constitución","Godoy",462,453,393,279,166
+"1913","Constitución","Juan B. Molina",494,479,409,343,187
+"1903","Constitución","Juncal",396,382,317,209,103
+"1907","Constitución","La Vanguardia",154,144,126,73,35
+"1904","Constitución","Máximo Paz (Est. Paz)",1252,1219,1039,827,462
+"1919","Constitución","Pavón",540,524,466,276,209
+"1905","Constitución","Pavón Arriba",636,617,530,324,231
+"1910","Constitución","Peyrano",890,866,729,562,352
+"1915","Constitución","Rueda",211,195,177,111,71
+"1906","Constitución","Santa Teresa",1137,1103,945,667,479
+"1909","Constitución","Sargento Cabral",371,366,304,257,148
+"1917","Constitución","Theobald",149,146,128,72,70
+"0502","Garay","Cayastá",1297,1098,1088,350,343
+"0505","Garay","Colonia Mascías",350,256,305,10,48
+"0501","Garay","Helvecia",2165,1761,1857,393,603
+"0506","Garay","Saladero Mariano Cabal",229,174,205,17,28
+"0503","Garay","Santa Rosa de Calchines",1819,1508,1574,444,443
+"1729","General López","Aarón Castellanos (Est. Castellanos)",110,104,98,22,34
+"1731","General López","Amenábar",624,604,564,204,240
+"1701","General López","Cafferata",552,539,427,401,197
+"1705","General López","Cañada del Ucle",349,342,270,251,139
+"1711","General López","Carmen",651,638,557,360,266
+"1708","General López","Carreras",707,694,586,472,289
+"1712","General López","Chapuy",204,200,181,70,78
+"1704","General López","Chovet",811,801,672,509,350
+"1725","General López","Christophersen",266,248,241,70,92
+"1730","General López","Diego de Alvear",648,618,571,262,248
+"1710","General López","Elortondo",2133,2096,1828,1244,860
+"1720","General López","Hughes",1573,1542,1423,586,706
+"1702","General López","La Chispa",145,136,126,72,49
+"1721","General López","Labordeboy",376,368,300,204,129
+"1728","General López","Lazzarino",139,123,128,18,27
+"1715","General López","Maggiolo",686,665,615,245,246
+"1717","General López","María Teresa",1321,1272,1184,592,588
+"1709","General López","Melincué",775,756,662,353,316
+"1707","General López","Miguel Torres",135,130,119,40,28
+"1703","General López","Murphy",1229,1205,1129,624,564
+"1716","General López","San Eduardo",402,387,329,244,126
+"1714","General López","San Francisco de Santa Fe",150,134,108,68,43
+"1724","General López","San Gregorio",1584,1533,1342,999,637
+"1726","General López","Sancti Spiritu",1270,1234,1105,604,426
+"1718","General López","Santa Isabel",1549,1513,1362,628,620
+"1723","General López","Teodelina",2233,2166,1994,842,926
+"1722","General López","Wheelwright",2039,1993,1853,912,869
+"0314","General Obligado","Arroyo Ceibal",378,318,331,104,101
+"0322","General Obligado","Berna",226,168,177,52,43
+"0321","General Obligado","El Arazá",216,204,193,45,46
+"0303","General Obligado","El Rabón",498,392,405,96,100
+"0313","General Obligado","El Sombrerito",326,209,281,13,17
+"0302","General Obligado","Florencia",1991,1399,1637,329,401
+"0327","General Obligado","Guadalupe Norte",376,313,329,130,130
+"0312","General Obligado","Ingeniero Chanourdie",296,209,248,50,47
+"0326","General Obligado","La Sarita",468,381,397,77,89
+"0316","General Obligado","Lanteri",705,541,597,189,180
+"0315","General Obligado","Las Garzas",475,337,407,111,88
+"0324","General Obligado","Los Laureles",422,341,359,84,79
+"0328","General Obligado","Nicanor Molinas",214,177,186,21,43
+"0306","General Obligado","San Antonio de Obligado",738,610,594,258,131
+"0307","General Obligado","Tacuarendí",838,643,689,291,161
+"0309","General Obligado","Villa Ana",1042,773,874,182,154
+"0304","General Obligado","Villa Guillermina",1330,1038,1085,574,287
+"1409","Iriondo","Bustinza",525,511,418,346,223
+"1403","Iriondo","Carrizales (Est. Clarke)",372,352,304,213,121
+"1401","Iriondo","Clason",325,311,297,105,140
+"1411","Iriondo","Correa",1926,1871,1649,935,761
+"1407","Iriondo","Lucio V. López",226,213,171,98,61
+"1404","Iriondo","Oliveros",1388,1343,1180,792,568
+"1405","Iriondo","Pueblo Andino",717,694,615,428,261
+"1408","Iriondo","Salto Grande",740,722,603,509,353
+"1406","Iriondo","Serodino",1161,1120,967,674,412
+"1412","Iriondo","Villa Eloísa",1129,1115,929,895,512
+"1008","La Capital","Arroyo Aguiar",442,400,374,204,120
+"1015","La Capital","Arroyo Leyes",899,833,811,269,275
+"1002","La Capital","Cabal",74,70,68,15,24
+"1004","La Capital","Campo Andino",160,132,121,43,28
+"1007","La Capital","Candioti",340,327,273,165,110
+"1001","La Capital","Emilia",321,315,280,142,139
+"1003","La Capital","Llambi Campbell",770,755,667,416,373
+"1009","La Capital","Monte Vera",2316,2130,1987,937,766
+"1006","La Capital","Nelson",1515,1458,1295,693,541
+"1016","La Capital","San José del Rincón",3087,2953,2784,1490,1423
+"1013","La Capital","Sauce Viejo",2509,2387,2254,1254,1032
+"0917","Las Colonias","Cavour",101,99,95,25,35
+"0928","Las Colonias","Colonia San José",107,95,91,56,36
+"0915","Las Colonias","Cululú",121,116,109,19,37
+"0901","Las Colonias","Elisa",587,571,516,285,249
+"0927","Las Colonias","Empalme San Carlos",102,95,99,19,23
+"0912","Las Colonias","Felicia",767,749,657,391,308
+"0926","Las Colonias","Franck",1742,1730,1555,974,882
+"0913","Las Colonias","Grutly",302,299,256,182,122
+"0910","Las Colonias","Hipatia",151,143,139,8,47
+"0918","Las Colonias","Humboldt",1560,1546,1361,792,717
+"0904","Las Colonias","Ituzaingó",28,28,24,0,8
+"0902","Las Colonias","Jacinto L. Aráuz",69,65,66,0,25
+"0903","Las Colonias","La Pelada",433,403,373,151,130
+"0924","Las Colonias","Las Tunas",155,150,142,49,39
+"0907","Las Colonias","María Luisa",233,227,206,76,88
+"0936","Las Colonias","Matilde",292,286,260,146,112
+"0919","Las Colonias","Nuevo Torino",250,246,226,113,96
+"0920","Las Colonias","Pilar",1580,1546,1327,807,630
+"0909","Las Colonias","Progreso",822,802,700,447,356
+"0906","Las Colonias","Providencia",295,279,239,150,85
+"0925","Las Colonias","Pujato Norte",44,40,43,2,11
+"0914","Las Colonias","Rivadavia",69,66,66,1,22
+"0932","Las Colonias","Sa Pereira",613,599,538,259,209
+"0929","Las Colonias","San Agustín",333,316,288,111,107
+"0930","Las Colonias","San Carlos Norte",319,310,274,118,102
+"0937","Las Colonias","San Carlos Sud",697,685,587,346,276
+"0931","Las Colonias","San Jerónimo del Sauce",292,274,243,106,73
+"0923","Las Colonias","San Jerónimo Norte",2188,2170,1837,1209,975
+"0933","Las Colonias","San Mariano",118,115,106,37,25
+"0934","Las Colonias","Santa Clara de Buena Vista",1009,980,853,488,347
+"0921","Las Colonias","Santa María Centro",48,47,48,0,4
+"0922","Las Colonias","Santa María Norte",62,61,62,6,22
+"0908","Las Colonias","Santo Domingo",557,548,454,318,201
+"0911","Las Colonias","Sarmiento",543,529,481,295,229
+"0905","Las Colonias","Soutomayor",53,49,49,1,14
+"0107","9 de Julio","Esteban Rams",111,83,103,28,14
+"0102","9 de Julio","Gato Colorado",402,288,318,34,44
+"0101","9 de Julio","Gregoria Pérez de Denis (Est. El Nochero)",577,453,490,83,119
+"0109","9 de Julio","Campo Garay (Juan de Garay)",18,15,17,3,1
+"0106","9 de Julio","Logroño",274,245,255,65,55
+"0108","9 de Julio","Montefiore",93,66,79,18,8
+"0104","9 de Julio","Pozo Borrado",431,372,386,101,94
+"0103","9 de Julio","San Bernardo",241,192,193,5,21
+"0111","9 de Julio","Santa Margarita",376,313,327,76,68
+"0110","9 de Julio","Villa Minetti",1605,1390,1425,360,392
+"1613","Rosario","Acebal",1749,1718,1526,1025,799
+"1621","Rosario","Albarellos",110,105,97,69,35
+"1611","Rosario","Álvarez",1919,1840,1696,1023,866
+"1609","Rosario","Alvear",1342,1274,1166,752,551
+"1623","Rosario","Arminda",103,102,85,66,31
+"1614","Rosario","Carmen del Sauce",253,238,236,81,73
+"1620","Rosario","Coronel Bogado",735,717,580,600,267
+"1619","Rosario","Fighiera",1568,1501,1313,933,642
+"1617","Rosario","General Lagos",1162,1116,1043,480,444
+"1601","Rosario","Ibarlucea",1295,1242,1208,599,621
+"1610","Rosario","Piñero (Est. Erasto)",387,345,343,106,114
+"1625","Rosario","Pueblo Esther",2224,2154,2002,1428,1166
+"1612","Rosario","Pueblo Muñoz (Est. Bernard)",204,201,169,128,68
+"1607","Rosario","Soldini",968,946,861,602,439
+"1622","Rosario","Uranga",311,305,258,216,128
+"1616","Rosario","Villa Amelia",443,438,375,315,193
+"1605","Rosario","Zavalla",1785,1754,1534,1042,820
+"1615","Rosario","Coronel Domínguez",363,353,301,200,151
+"0706","San Cristóbal","Aguará Grande",145,119,133,16,21
+"0703","San Cristóbal","Ambrosetti",393,361,349,79,89
+"0711","San Cristóbal","Arrufó",699,656,618,289,222
+"0718","San Cristóbal","Capivara",105,92,98,2,12
+"0713","San Cristóbal","Colonia Ana",81,76,77,8,21
+"0729","San Cristóbal","Colonia Bossi",130,128,126,36,55
+"0715","San Cristóbal","Colonia Rosa",299,282,276,105,85
+"0723","San Cristóbal","Constanza",83,75,76,16,8
+"0717","San Cristóbal","Curupaytí",164,140,146,18,27
+"0728","San Cristóbal","Colonia Dos Rosas y La Legua",98,93,98,4,11
+"0702","San Cristóbal","Hersilia",1032,977,874,444,358
+"0704","San Cristóbal","Huanqueros",281,238,238,57,55
+"0732","San Cristóbal","La Cabral",86,69,70,10,6
+"0721","San Cristóbal","Colonia La Clara",54,52,49,5,19
+"0720","San Cristóbal","La Lucila",92,80,81,16,23
+"0712","San Cristóbal","La Rubia",154,146,136,57,37
+"0705","San Cristóbal","Las Avispas",68,53,62,0,5
+"0730","San Cristóbal","Las Palmeras",198,181,164,70,35
+"0724","San Cristóbal","Moisés Ville",808,767,654,412,282
+"0725","San Cristóbal","Monigotes",138,118,117,43,21
+"0727","San Cristóbal","Monte Oscuridad",199,186,197,47,51
+"0719","San Cristóbal","Ñanducita",60,50,60,2,12
+"0731","San Cristóbal","Palacios",159,143,140,51,38
+"0710","San Cristóbal","Portugalete",61,58,57,3,6
+"0716","San Cristóbal","San Guillermo",2519,2464,2169,1480,1106
+"0709","San Cristóbal","Santurce",39,32,36,0,5
+"0722","San Cristóbal","Soledad",454,398,398,93,107
+"0726","San Cristóbal","Suardi",2172,2116,1900,1212,916
+"0707","San Cristóbal","Villa Saralegui",230,193,211,14,40
+"0714","San Cristóbal","Villa Trinidad",991,968,904,395,447
+"0403","San Javier","Alejandra",1238,964,1063,169,212
+"0405","San Javier","Cacique Ariacaiquín",103,85,86,23,19
+"0402","San Javier","Colonia Durán",255,177,225,5,43
+"0406","San Javier","La Brava",191,139,162,21,26
+"0401","San Javier","Romang",2643,2293,2268,641,811
+"1110","San Jerónimo","Arocena",731,638,614,308,176
+"1115","San Jerónimo","Barrancas",1765,1650,1473,775,584
+"1113","San Jerónimo","Bernardo de Irigoyen (Est. Irigoyen)",605,587,492,289,204
+"1107","San Jerónimo","Campo Piaggio",32,27,32,1,10
+"1114","San Jerónimo","Casalegno",87,75,71,20,16
+"1122","San Jerónimo","Centeno",1022,987,857,642,403
+"1104","San Jerónimo","Desvío Arijón",772,697,663,222,194
+"1119","San Jerónimo","Díaz",586,554,443,317,177
+"1117","San Jerónimo","Gaboto",860,752,686,363,166
+"1102","San Jerónimo","Gessler",350,346,290,207,127
+"1112","San Jerónimo","Irigoyen (Pueblo)",313,303,265,119,103
+"1103","San Jerónimo","Larrechea",169,162,141,88,54
+"1106","San Jerónimo","Loma Alta",105,105,98,65,47
+"1101","San Jerónimo","López",477,465,422,226,201
+"1118","San Jerónimo","Maciel",1803,1754,1485,1076,736
+"1116","San Jerónimo","Monje",812,781,612,475,249
+"1109","San Jerónimo","San Eugenio",81,78,79,24,27
+"1111","San Jerónimo","San Fabián",300,270,226,137,85
+"0614","San Justo","Angeloni",99,90,89,5,17
+"0617","San Justo","Cayastacito",134,109,107,47,25
+"0618","San Justo","Colonia Dolores",128,94,100,1,11
+"0616","San Justo","Colonia Esther",34,32,30,1,7
+"0607","San Justo","Gobernador Crespo",1755,1693,1566,730,864
+"0602","San Justo","La Camila",64,54,53,18,7
+"0605","San Justo","La Criolla (Est. Cañadita)",730,681,628,282,243
+"0606","San Justo","La Penca y Caraguatá",140,134,133,31,46
+"0609","San Justo","Marcelino Escalada",559,513,465,219,172
+"0612","San Justo","Naré",153,130,131,32,41
+"0601","San Justo","Pedro Gómez Cello",221,198,195,47,42
+"0610","San Justo","Ramayón",226,217,176,86,51
+"0613","San Justo","San Bernardo",31,26,29,0,3
+"0604","San Justo","San Martín Norte",207,164,174,38,46
+"0608","San Justo","Silva",167,157,150,29,35
+"0603","San Justo","Vera y Pintado",374,349,318,173,117
+"0615","San Justo","Videla",787,761,652,316,250
+"1507","San Lorenzo","Aldao",235,225,212,155,103
+"1513","San Lorenzo","Coronel Arnold",318,312,253,249,154
+"1514","San Lorenzo","Fuentes",1184,1174,992,868,514
+"1508","San Lorenzo","Luis Palacios",325,311,287,137,115
+"1512","San Lorenzo","Pujato",1188,1170,976,893,549
+"1506","San Lorenzo","Ricardone",767,750,717,414,389
+"1510","San Lorenzo","San Jerónimo Sud",896,884,797,470,436
+"1501","San Lorenzo","Timbúes",1218,1128,1090,515,434
+"1515","San Lorenzo","Villa Mugueta",778,764,672,381,296
+"1206","San Martín","Cañada Rosquín",1804,1766,1550,928,823
+"1211","San Martín","Carlos Pellegrini",1787,1766,1543,1000,919
+"1212","San Martín","Casas",286,262,243,105,77
+"1201","San Martín","Castelar",274,266,235,171,91
+"1205","San Martín","Colonia Belgrano",441,427,385,277,178
+"1202","San Martín","Crispi",171,156,155,33,43
+"1210","San Martín","Landeta",521,513,446,279,221
+"1213","San Martín","Las Bandurrias",86,75,81,3,10
+"1209","San Martín","Las Petacas",374,367,301,251,124
+"1214","San Martín","Los Cardos",481,468,413,232,207
+"1217","San Martín","María Susana",1162,1138,997,807,562
+"1216","San Martín","Piamonte",1233,1215,1002,958,497
+"1204","San Martín","San Martín de las Escobas",878,858,751,590,461
+"1207","San Martín","Traill",61,57,57,14,19
+"0208","Vera","Cañada Ombú",200,141,144,37,26
+"0207","Vera","Fortín Olmos",907,657,750,98,128
+"0211","Vera","Garabato",511,386,436,41,57
+"0209","Vera","Golondrina",243,166,199,2,26
+"0210","Vera","Intiyaco",449,329,380,53,80
+"0203","Vera","La Gallareta",870,742,707,198,135
+"0212","Vera","Los Amores",378,265,324,34,54
+"0204","Vera","Margarita",1336,1182,1085,572,358
+"0213","Vera","Tartagal",529,407,457,70,106
+"0206","Vera","Toba",259,160,198,3,11
