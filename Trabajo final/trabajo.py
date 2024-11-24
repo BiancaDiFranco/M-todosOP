@@ -314,6 +314,7 @@ plt.title("Intención de voto por partido político y género")
 plt.show()
 
 #Gráfico de torta, rango etario votantes de LLA
+
 votantesLLA = [LLA_r1,LLA_r2,LLA_r3,LLA_r4,LLA_r5]
 categorias = ["Entre 16 y 25", "Entre 26 a 35 años", "Entre 36 a 45 años", "Entre 46 a 55 años", "Entre 56 y más años" ]
 plt.pie (votantesLLA, labels=categorias,autopct="%0.1f %%") # Este argumento se usa para mostrar el porcentaje de cada sección. El formato "%0.1f %%" indica que se debe mostrar el porcentaje con un solo decimal
