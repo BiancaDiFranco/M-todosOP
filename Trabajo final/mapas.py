@@ -2,6 +2,9 @@ import pandas as pd
 import geopandas as gpd
 from shapely import Point
 import matplotlib.pyplot as plt
+import contextily as ctx
+import folium
+from IPython.display import display, HTML
 
 
 #Manzanas
@@ -12,7 +15,7 @@ gdf = gpd.GeoDataFrame(dfmanzanas, geometry="geometry")
 gdf.set_crs('EPSG:4326', inplace=True)
 ax = gdf.plot(figsize=(10, 10), facecolor='none', edgecolor='black')
 ax.set_title('Mapa Geoespacial de Manzanas de Rosario', fontsize=15)
-#plt.show()
+plt.show()
 
 #Autopistas
 url2 = 'https://raw.githubusercontent.com/BiancaDiFranco/M-todosOP/refs/heads/main/Trabajo%20final/datasets%20complementarios/autopistas.gml'
@@ -22,7 +25,7 @@ gdf2 = gpd.GeoDataFrame(dfautopistas, geometry="geometry")
 gdf2.set_crs('EPSG:4326', inplace=True)
 ax = gdf2.plot(figsize=(10, 10), facecolor='none', edgecolor='red')
 ax.set_title('Mapa Geoespacial de Autopistas de Rosario', fontsize=15)
-#plt.show()
+plt.show()
 
 #Zonas inundables
 
@@ -33,8 +36,10 @@ gdf3 = gpd.GeoDataFrame(dfinundaciones, geometry="geometry")
 gdf3.set_crs('EPSG:4326', inplace=True)
 ax = gdf3.plot(figsize=(10, 10), facecolor='none', edgecolor='blue')
 ax.set_title('Mapa Geoespacial de Zonas Inundables en Rosario', fontsize=15)
-#plt.show()
+plt.show()
 
 #esot no estaria funcionando
-gdf_combined = gpd.overlay(gdf, gdf2, how='union',keep_geom_type=False)
-gdf_combined.plot()
+#gdf_combined = gpd.overlay(gdf, gdf2, how='union',keep_geom_type=False)
+#gdf_combined.plot()
+
+dfRosario=pd.read_excel('https://raw.githubusercontent.com/BiancaDiFranco/M-todosOP/main/Trabajo%20final/Rosario%20F.xlsx', engine='openpyxl')

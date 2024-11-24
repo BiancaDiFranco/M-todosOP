@@ -290,16 +290,6 @@ print(f"{Ninguno_NoSabe_varones} hombres piensan no votar a ninguno de ellos /n"
        f"{Ninguno_NoSabe_mujeres} mujeres piensan no votar a ninguno de ellos /n"
        f"{Ninguno_NoSabe_otros} otros piensan no votar a ninguno de ellos /n")
 
-
-data = pd.DataFrame({'España' : [826, 943, 942, 901],
-                     'Colombia': [668, 781, 791, 813],
-                     'México': [488, 553, 563, 537]},
-                    index=('Lunes', 'Martes', 'Miercoles', 'Jueves'))
-n = len(data.index)
-x = np.arange(n)
-width = 0.25
-
-
 #Gráfico de barras
 data= pd.DataFrame({"Masculino": [LLA_varones, FdT_varones,JxC_varones,FIT_varones,PNK_varones,Otros_varones, Ninguno_NoSabe_varones],
                      "Femenino" : [LLA_mujeres,FdT_mujeres,JxC_mujeres,FIT_mujeres,PNK_mujeres,Otros_mujeres, Ninguno_NoSabe_mujeres],
@@ -311,10 +301,11 @@ plt.bar(data.index, data.Femenino + data.Otros, label= "Femenino")
 plt.bar(data.index, data.Otros, label= "Otros")
 plt.legend(loc='best')
 plt.title("Intención de voto por partido político y género")
+plt.xlabel ("Partido político")
+plt.ylabel ("Personas que intencionan votarlo")
 plt.show()
 
 #Gráfico de torta, rango etario votantes de LLA
-
 votantesLLA = [LLA_r1,LLA_r2,LLA_r3,LLA_r4,LLA_r5]
 categorias = ["Entre 16 y 25", "Entre 26 a 35 años", "Entre 36 a 45 años", "Entre 46 a 55 años", "Entre 56 y más años" ]
 plt.pie (votantesLLA, labels=categorias,autopct="%0.1f %%") # Este argumento se usa para mostrar el porcentaje de cada sección. El formato "%0.1f %%" indica que se debe mostrar el porcentaje con un solo decimal
